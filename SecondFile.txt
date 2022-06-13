@@ -5,3 +5,5 @@ New Commit from feature branch
 Second commit from feature branch
 
 Revert commit for feature branch
+
+Second Revert commit for the feature branch
